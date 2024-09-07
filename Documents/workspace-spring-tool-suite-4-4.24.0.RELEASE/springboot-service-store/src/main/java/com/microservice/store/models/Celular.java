@@ -3,13 +3,13 @@ package com.microservice.store.models;
 import java.util.Date;
 
 public class Celular {
-	
+
 	private Long id;
-
+	
 	private String name;
-
+	
 	private String marca;
-
+	
 	private Date createdAt;
 
 	public Long getId() {

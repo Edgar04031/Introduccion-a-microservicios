@@ -9,10 +9,12 @@ public class Store {
 	public Store() {
 		
 	}
+	
 	public Store(Celular cel, Integer cantidad) {
 		super();
 		this.cel = cel;
 		this.cantidad = cantidad;
+		
 	}
 
 	public Celular getCel() {
@@ -30,6 +32,4 @@ public class Store {
 	public void setCantidad(Integer cantidad) {
 		this.cantidad = cantidad;
 	}
-	
-	
 }
