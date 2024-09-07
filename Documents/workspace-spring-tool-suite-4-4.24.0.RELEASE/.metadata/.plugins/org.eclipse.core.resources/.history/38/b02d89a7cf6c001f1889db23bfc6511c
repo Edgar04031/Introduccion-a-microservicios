@@ -1,0 +1,8 @@
+package com.microservice.client;
+
+public class Snippet {
+	public static void main(String[] args) {
+		client
+	}
+}
+

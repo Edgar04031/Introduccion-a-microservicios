@@ -1,0 +1,5 @@
+package com.microservice.store;
+
+public class AppConfig {
+
+}
